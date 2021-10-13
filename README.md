@@ -17,5 +17,4 @@ Image and table data scrapping from [NASA Mars News](https://mars.nasa.gov/news/
 ## Challenge Summary
 Scraped images from [Mars' hemispheres](https://courses.bootcampspot.com/courses/95/assignments/600?module_item_id=2564) and displayed them in a grid format on the webpage. Also added a new HTML template for the scraping page which includes a "Go Back" button to return to the home page. Used CSS classes to display the table in a more sophisticated manor. 
 
-#### Portfolio Screenshot
---------------------------------------site_image comes here------------------------------------------------------------------------
+![Site_Image](https://user-images.githubusercontent.com/83256206/137045437-cecf1a71-ba43-42aa-a6be-1582fcdb7788.png)
